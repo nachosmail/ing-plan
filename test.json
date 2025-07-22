@@ -1,0 +1,82 @@
+[
+    {
+        "cod_materia": "1109",
+        "nombre_materia": "Matemáticas I",
+        "cod_carrera": "1001",
+        "nombre_carrera": "Ingeniería en Sistemas Computacionales",
+        "correlativas": [],
+        "estado": "Aprobada",
+        "nota":""
+    },
+    {
+        "cod_materia": "1110",
+        "nombre_materia": "Matemáticas II",
+        "cod_carrera": "1001",
+        "nombre_carrera": "Ingeniería en Sistemas Computacionales",
+        "correlativas": [
+            "1109"
+        ],
+        "estado": "Pendiente",
+        "nota":""
+    },
+    {
+        "cod_materia": "1111",
+        "nombre_materia": "Programación I",
+        "cod_carrera": "1001",
+        "nombre_carrera": "Ingeniería en Sistemas Computacionales",
+        "correlativas": [],
+        "estado": "Aprobada",
+        "nota":""
+    },
+    {
+        "cod_materia": "1112",
+        "nombre_materia": "Programación II",
+        "cod_carrera": "1001",
+        "nombre_carrera": "Ingeniería en Sistemas Computacionales",
+        "correlativas": [
+            "1111"
+        ],
+        "estado": "Pendiente",
+        "nota":""
+    },
+        {
+        "cod_materia": "1109",
+        "nombre_materia": "Matemáticas I",
+        "cod_carrera": "1000",
+        "nombre_carrera": "Ingeniería Industrial",
+        "correlativas": [],
+        "estado": "Aprobada",
+        "nota":""
+    },
+    {
+        "cod_materia": "1110",
+        "nombre_materia": "Matemáticas II",
+        "cod_carrera": "1000",
+        "nombre_carrera": "Ingeniería Industrial",
+        "correlativas": [
+            "1109"
+        ],
+        "estado": "Pendiente",
+        "nota":""
+    },
+    {
+        "cod_materia": "1111",
+        "nombre_materia": "Programación I",
+        "cod_carrera": "1000",
+        "nombre_carrera": "Ingeniería Industrial",
+        "correlativas": [],
+        "estado": "Aprobada",
+        "nota":""
+    },
+    {
+        "cod_materia": "1112",
+        "nombre_materia": "Programación II",
+        "cod_carrera": "1000",
+        "nombre_carrera": "Ingeniería Industrial",
+        "correlativas": [
+            "1111"
+        ],
+        "estado": "Pendiente",
+        "nota":""
+    }
+]
